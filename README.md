@@ -29,7 +29,11 @@
 <p align="center">
 <img alt="Project login" src="https://github.com/eltonlazzarin/friends-list-rails/blob/main/screenshots/login.png" />
 
+</br>
+
 <img alt="Project friends list" src="https://github.com/eltonlazzarin/friends-list-rails/blob/main/screenshots/friends-list.png" />
+
+</br>
 
 <img alt="Project single friend" src="https://github.com/eltonlazzarin/friends-list-rails/blob/main/screenshots/single-friend.png" />
 </p>
