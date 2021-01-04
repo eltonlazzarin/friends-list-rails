@@ -27,7 +27,11 @@
 ## 👨🏻‍💻 About the project
 
 <p align="center">
-<img alt="Project user interations gif" src="https://github.com/eltonlazzarin/friends-list-rails/blob/master/screenshots/navedex-user-interations.gif" />
+<img alt="Project login" src="https://github.com/eltonlazzarin/friends-list-rails/blob/main/screenshots/login.png" />
+
+<img alt="Project friends list" src="https://github.com/eltonlazzarin/friends-list-rails/blob/main/screenshots/friends-list.png" />
+
+<img alt="Project single friend" src="https://github.com/eltonlazzarin/friends-list-rails/blob/main/screenshots/single-friend.png" />
 </p>
 
 <p></p>
