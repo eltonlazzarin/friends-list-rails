@@ -38,7 +38,7 @@
 <img alt="Project single friend" src="https://github.com/eltonlazzarin/friends-list-rails/blob/main/screenshots/single-friend.png" />
 </p>
 
-<p></p>
+<p>Friend List is a web application built with Ruby on Rails where the user can register, login, list and create new friends contacts and was created with the aim of knowing more about this framework.</p>
 
 ## 🚀 Technologies
 
